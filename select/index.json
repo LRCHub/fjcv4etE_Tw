@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "還して",
+  "base_artist": "原口沙輔",
+  "createdAt": "2025-12-28T14:56:27.363735Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "還して",
+      "artist": "原口沙輔",
+      "has_synced": false,
+      "path": "select/pl_01_還して_原口沙輔.txt"
+    }
+  ]
+}
